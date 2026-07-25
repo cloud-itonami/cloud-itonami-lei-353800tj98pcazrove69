@@ -2,4 +2,5 @@
  :company/lei "353800TJ98PCAZROVE69"
  :company/jurisdiction "JP"
  :company/website "https://www.mhi.com"
- :company/ticker "7011 (TSE)"}
+ :company/ticker "7011 (TSE)"
+ :company/inquiry-form-url "https://www.mhi.com/inquiry"}
