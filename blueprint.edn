@@ -1,13 +1,6 @@
-{:company/gleif-note "registry facts from GLEIF (https://api.gleif.org/api/v1/lei-records/353800TJ98PCAZROVE69), retrieved 2026-08-25 by scripts/lei-gleif-ingest.cljs (GET only)"
- :company/inquiry-form-url "https://www.mhi.com/inquiry"
- :company/jurisdiction "JP"
- :company/legal-address "丸の内三丁目2番3号, 100-8332, 東京都 千代田区, JP"
- :company/legal-form-elf "T417"
- :company/legal-jurisdiction "JP"
- :company/legal-name "Mitsubishi Heavy Industries, Ltd."
+{:company/legal-name "Mitsubishi Heavy Industries, Ltd."
  :company/lei "353800TJ98PCAZROVE69"
- :company/lei-status "ISSUED"
- :company/postal-address "丸の内三丁目2番3号, 100-8332, 東京都 千代田区, JP"
- :company/registration-number "0104-01-050387"
+ :company/jurisdiction "JP"
+ :company/website "https://www.mhi.com"
  :company/ticker "7011 (TSE)"
- :company/website "https://www.mhi.com"}
+ :company/inquiry-form-url "https://www.mhi.com/inquiry"}
